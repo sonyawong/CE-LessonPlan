@@ -1,0 +1,7 @@
+[
+  {
+    "path": "../data/sft_data/lesson_plan_data.json",
+    "data_name": "lesson_plan_v1",
+    "sample_ratio": 1.0
+  }
+]
